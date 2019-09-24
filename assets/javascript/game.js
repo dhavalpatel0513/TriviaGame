@@ -20,20 +20,20 @@ var questions = [{
     answerList: ["America", "China", "Russia", "India"],
     answer: 3
 },{
-    question: "Who sang the \"Friends\" theme song?",
-    answerList: ["Spin Doctors", "The Wallflowers", "Gin Blossoms", "The Rembrandts"],
-    answer: 3
+    question: "which is the largest and busiest airport in the world?",
+    answerList: ["Hartsfield-Jackson Atlanta International Airport", "John F. Kennedy International Airport", "Heathrow Airport", "Dubai International Airport"],
+    answer: 0
 },{
     question: "The 1996 Summer Olympics where held in which U.S. city?",
     answerList: ["San Antonio", "Atlanta", "Denver", "Houston"],
     answer: 1
 },{
-    question: "What is the name of the high school in \"Boy Meets World\"?",
-    answerList: ["John Adams High School", "John Henry High School", "John Hancock High School", "Johnny Appleseed High School"],
+    question: "how many spaces on a standard monopoly board?",
+    answerList: ["40","60","80","100"],
     answer: 0
 },{
-    question: "When the iBook was released in 1999, which was NOT one of the five colors available?",
-    answerList: ["Tangerine", "Blueberry", "Key Lime", "Watermelon"],
+    question: "when first iphone was launched?",
+    answerList: ["2005", "2009", "2004", "2007"],
     answer: 3
 }];
 
