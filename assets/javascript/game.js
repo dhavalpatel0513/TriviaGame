@@ -8,7 +8,7 @@ var unanswered = 0;
 
 // Questions array
 var questions = [{
-    question: "where is president of USA?",
+    question: "who is president of USA?",
     answerList: ["Barack Obama", "Vladimir Putin", "Donald Trump", "Narendra Modi"],
     answer: 2
 },{
