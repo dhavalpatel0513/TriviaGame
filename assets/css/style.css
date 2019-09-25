@@ -5,12 +5,17 @@
 
 body {
 
-    position: relative;
+
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 16px;
     line-height: 24px;
-    background: url("../images/background.jpg");
+    background: url("../images/background.jpg")
+    
+
+
+
 }
+
 
 h1 {
 
@@ -27,7 +32,9 @@ h1 {
     text-align: center;
     margin: 0 15%;
     padding: 30px;
-    background: #dfe6e9
+    background: #ECE9E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #FFFFFF, #ECE9E6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .main-content {
@@ -40,12 +47,10 @@ h1 {
     padding: 15px 75px;
     font-size: 20px;
     background: #1abc9c;
-    border: 2px solid #e17055;
 }
 .startbtn:hover{
     background-color: #16a085;
     font-size: 20px;
     padding: 15px 75px;
-    border: 2px solid #e17055;
-
+    
 }
